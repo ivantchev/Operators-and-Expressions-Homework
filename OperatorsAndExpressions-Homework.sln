@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Problem_CheckBitAtAGiven
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Problem_ModifyABitAtAGivenPosition", "14_Problem_ModifyABitAtAGivenPosition\14_Problem_ModifyABitAtAGivenPosition.csproj", "{F9C0F339-13DB-483B-A455-EE3602115D7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_Problem_BitsExchange", "15_Problem_BitsExchange\15_Problem_BitsExchange.csproj", "{DD384AF9-268F-48C3-806B-CA3068BF4EC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_Problem_BitExchangeAdv", "16_Problem_BitExchangeAdv\16_Problem_BitExchangeAdv.csproj", "{CA99DCF2-9AF6-4176-8A4E-8CA3DA6DD7DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{F9C0F339-13DB-483B-A455-EE3602115D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9C0F339-13DB-483B-A455-EE3602115D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9C0F339-13DB-483B-A455-EE3602115D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD384AF9-268F-48C3-806B-CA3068BF4EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD384AF9-268F-48C3-806B-CA3068BF4EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD384AF9-268F-48C3-806B-CA3068BF4EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD384AF9-268F-48C3-806B-CA3068BF4EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA99DCF2-9AF6-4176-8A4E-8CA3DA6DD7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA99DCF2-9AF6-4176-8A4E-8CA3DA6DD7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA99DCF2-9AF6-4176-8A4E-8CA3DA6DD7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA99DCF2-9AF6-4176-8A4E-8CA3DA6DD7DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
